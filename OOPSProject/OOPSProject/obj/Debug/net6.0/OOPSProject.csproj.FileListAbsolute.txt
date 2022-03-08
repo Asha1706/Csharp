@@ -1,0 +1,15 @@
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\bin\Debug\net6.0\OOPSProject.exe
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\bin\Debug\net6.0\OOPSProject.deps.json
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\bin\Debug\net6.0\OOPSProject.runtimeconfig.json
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\bin\Debug\net6.0\OOPSProject.dll
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\bin\Debug\net6.0\OOPSProject.pdb
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\OOPSProject.csproj.AssemblyReference.cache
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\OOPSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\OOPSProject.AssemblyInfoInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\OOPSProject.AssemblyInfo.cs
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\OOPSProject.csproj.CoreCompileInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\OOPSProject.dll
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\ref\OOPSProject.dll
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\OOPSProject.pdb
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\OOPSProject.genruntimeconfig.cache
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\OOPSProject\obj\Debug\net6.0\refint\OOPSProject.dll

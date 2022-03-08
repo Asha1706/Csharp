@@ -1,0 +1,15 @@
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\bin\Debug\net6.0\UsingLINQ.exe
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\bin\Debug\net6.0\UsingLINQ.deps.json
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\bin\Debug\net6.0\UsingLINQ.runtimeconfig.json
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\bin\Debug\net6.0\UsingLINQ.dll
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\bin\Debug\net6.0\UsingLINQ.pdb
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\UsingLINQ.csproj.AssemblyReference.cache
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\UsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\UsingLINQ.AssemblyInfoInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\UsingLINQ.AssemblyInfo.cs
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\UsingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\UsingLINQ.dll
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\refint\UsingLINQ.dll
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\UsingLINQ.pdb
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\UsingLINQ.genruntimeconfig.cache
+C:\Users\AshaPasha\Desktop\Asha\UsingLINQ\UsingLINQ\obj\Debug\net6.0\ref\UsingLINQ.dll

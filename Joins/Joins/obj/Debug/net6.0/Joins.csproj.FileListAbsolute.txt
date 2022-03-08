@@ -1,0 +1,15 @@
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\bin\Debug\net6.0\Joins.exe
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\bin\Debug\net6.0\Joins.deps.json
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\bin\Debug\net6.0\Joins.runtimeconfig.json
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\bin\Debug\net6.0\Joins.dll
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\bin\Debug\net6.0\Joins.pdb
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\Joins.csproj.AssemblyReference.cache
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\Joins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\Joins.AssemblyInfoInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\Joins.AssemblyInfo.cs
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\Joins.csproj.CoreCompileInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\Joins.dll
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\refint\Joins.dll
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\Joins.pdb
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\Joins.genruntimeconfig.cache
+C:\Users\AshaPasha\Desktop\Asha\Joins\Joins\obj\Debug\net6.0\ref\Joins.dll

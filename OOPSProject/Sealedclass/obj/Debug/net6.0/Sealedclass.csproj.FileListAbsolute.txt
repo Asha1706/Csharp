@@ -1,0 +1,15 @@
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\bin\Debug\net6.0\Sealedclass.exe
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\bin\Debug\net6.0\Sealedclass.deps.json
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\bin\Debug\net6.0\Sealedclass.runtimeconfig.json
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\bin\Debug\net6.0\Sealedclass.dll
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\bin\Debug\net6.0\ref\Sealedclass.dll
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\bin\Debug\net6.0\Sealedclass.pdb
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\obj\Debug\net6.0\Sealedclass.csproj.AssemblyReference.cache
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\obj\Debug\net6.0\Sealedclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\obj\Debug\net6.0\Sealedclass.AssemblyInfoInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\obj\Debug\net6.0\Sealedclass.AssemblyInfo.cs
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\obj\Debug\net6.0\Sealedclass.csproj.CoreCompileInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\obj\Debug\net6.0\Sealedclass.dll
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\obj\Debug\net6.0\ref\Sealedclass.dll
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\obj\Debug\net6.0\Sealedclass.pdb
+C:\Users\AshaPasha\Desktop\Asha\OOPSProject\Sealedclass\obj\Debug\net6.0\Sealedclass.genruntimeconfig.cache

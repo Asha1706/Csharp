@@ -1,0 +1,26 @@
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\bin\Debug\net6.0\appsettings.json
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\bin\Debug\net6.0\Tutorial 2.staticwebassets.runtime.json
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\bin\Debug\net6.0\Tutorial 2.exe
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\bin\Debug\net6.0\Tutorial 2.deps.json
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\bin\Debug\net6.0\Tutorial 2.runtimeconfig.json
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\bin\Debug\net6.0\Tutorial 2.dll
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\bin\Debug\net6.0\Tutorial 2.pdb
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.csproj.AssemblyReference.cache
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.AssemblyInfoInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.AssemblyInfo.cs
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.csproj.CoreCompileInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.RazorAssemblyInfo.cache
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.RazorAssemblyInfo.cs
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\scopedcss\bundle\Tutorial 2.styles.css
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\scopedcss\projectbundle\Tutorial 2.bundle.scp.css
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.dll
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\ref\Tutorial 2.dll
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.pdb
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\Tutorial 2.genruntimeconfig.cache
+C:\Users\AshaPasha\Desktop\Asha\Tutorial 2\Tutorial 2\obj\Debug\net6.0\refint\Tutorial 2.dll

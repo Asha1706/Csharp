@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h2>List of Books and list of Customers together</h2>
+
+<h4>List of Books</h4>
+<ul>
+    @foreach (var book in Model.Book)
+    {
+        <li>
+            @book.BookName;
+        </li>
+
+    }
+</ul>
+
+<h4>List of Customers</h4>
+<ul>
+    @foreach (var customer in Model.Customers)
+    {
+        <li>
+            @customer.CustomerName;
+        </li>
+
+    }
+</ul>
+

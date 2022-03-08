@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bef446d4-39d4-45f7-8a10-ca780233ed2f": {
+      "ProjectGuid": "bef446d4-39d4-45f7-8a10-ca780233ed2f",
+      "DisplayName": "Test1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

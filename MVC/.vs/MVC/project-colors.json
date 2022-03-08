@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99f517f0-654d-464a-8607-b7403dc6434c": {
+      "ProjectGuid": "99f517f0-654d-464a-8607-b7403dc6434c",
+      "DisplayName": "MVC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

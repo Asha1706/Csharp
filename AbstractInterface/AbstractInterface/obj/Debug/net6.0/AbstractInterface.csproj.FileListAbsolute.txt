@@ -1,0 +1,15 @@
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\bin\Debug\net6.0\AbstractInterface.exe
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\bin\Debug\net6.0\AbstractInterface.deps.json
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\bin\Debug\net6.0\AbstractInterface.runtimeconfig.json
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\bin\Debug\net6.0\AbstractInterface.dll
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\bin\Debug\net6.0\AbstractInterface.pdb
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\AbstractInterface.csproj.AssemblyReference.cache
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\AbstractInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\AbstractInterface.AssemblyInfoInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\AbstractInterface.AssemblyInfo.cs
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\AbstractInterface.csproj.CoreCompileInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\AbstractInterface.dll
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\refint\AbstractInterface.dll
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\AbstractInterface.pdb
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\AbstractInterface.genruntimeconfig.cache
+C:\Users\AshaPasha\Desktop\Asha\AbstractInterface\AbstractInterface\obj\Debug\net6.0\ref\AbstractInterface.dll

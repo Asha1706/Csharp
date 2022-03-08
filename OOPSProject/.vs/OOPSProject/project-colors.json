@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a90804df-5273-4d69-9f6a-6b752d20ecd8": {
+      "ProjectGuid": "a90804df-5273-4d69-9f6a-6b752d20ecd8",
+      "DisplayName": "OOPSProject",
+      "ColorIndex": 0
+    },
+    "3c90addd-ffa9-4dcb-88e2-51e325270460": {
+      "ProjectGuid": "3c90addd-ffa9-4dcb-88e2-51e325270460",
+      "DisplayName": "Sealedclass",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

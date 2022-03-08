@@ -1,0 +1,15 @@
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfo.cs
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.exe
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.deps.json
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.runtimeconfig.json
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.dll
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\bin\Debug\net6.0\ref\MultiThreading.dll
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.pdb
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.dll
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\obj\Debug\net6.0\ref\MultiThreading.dll
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.pdb
+C:\Users\AshaPasha\Desktop\Asha\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.genruntimeconfig.cache

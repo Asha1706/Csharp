@@ -1,0 +1,15 @@
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\bin\Debug\net6.0\TypesDemo.exe
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\bin\Debug\net6.0\TypesDemo.deps.json
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\bin\Debug\net6.0\TypesDemo.runtimeconfig.json
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\bin\Debug\net6.0\TypesDemo.dll
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\bin\Debug\net6.0\TypesDemo.pdb
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\TypesDemo.csproj.AssemblyReference.cache
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\TypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\TypesDemo.AssemblyInfoInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\TypesDemo.AssemblyInfo.cs
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\TypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\TypesDemo.dll
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\refint\TypesDemo.dll
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\TypesDemo.pdb
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\TypesDemo.genruntimeconfig.cache
+C:\Users\AshaPasha\Desktop\Asha\TypesDemo\TypesDemo\obj\Debug\net6.0\ref\TypesDemo.dll
